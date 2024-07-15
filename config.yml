@@ -1,0 +1,8 @@
+---
+
+storage:
+  host: localhost
+  port: 5433
+  database: konstantin
+  username: konstantin
+  password: 1234
